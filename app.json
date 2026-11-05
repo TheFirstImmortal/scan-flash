@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Scan Flash",
+    "slug": "scan-flash",
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0B0E14",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.thefirstimmortal.scanflash"
+    },
+    "android": {
+      "package": "com.thefirstimmortal.scanflash",
+      "adaptiveIcon": {
+        "backgroundColor": "#0B0E14",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
